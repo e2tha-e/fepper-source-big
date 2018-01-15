@@ -7,9 +7,9 @@
   "bp_sm": "0",
   "bp_md": "721",
   "bp_lg": "955",
-  "field_label_hidden?": true,
-  "has_content?": true,
-  "has_user_menu?": true,
+  "field_label_hidden": true,
+  "has_content": true,
+  "has_user_menu": true,
   "homepage": "04-pages-00-homepage",
   "logo": "../../images/logo.svg",
   "pane_classes": "panels-section-new clearfix",
@@ -18,7 +18,7 @@
   "panels_pane__section_title_attributes": " class=\"pane-title\"",
   "region_classes": "region-content",
   "template_content": "<p>INCLUDE PROTOTYPE CONTENT BELOW.</p><p>To create variants of a reusable template, wrap the partial tags in conditionals which namespace by pattern type, subtype, and name.</p>",
-  "views_view_rows?": true,
+  "views_view_rows": true,
 "header_user_menu_items": [
   {
     "nav_list_item": "My Collection",
@@ -60,7 +60,6 @@
 "02_global_header_faq_menu": {
   "block_id": "block-menu-menu-faq",
   "block_classes": "block block-menu",
-  "block_subject?": true,
   "block_subject": "FAQ Menu"
 },
 "header_nav_list_items": [
@@ -90,7 +89,7 @@
   {
     "nav_list_item": "Discover",
     "classes": "last expanded",
-    "has_submenu?": true
+    "has_submenu": true
   }
 ],
 "header_discover_submenu_items": [
@@ -205,17 +204,17 @@
   "format_edition_subheadline": "Blu-ray + DVD + Digital Copy",
   "number_of_discs": "2",
   "release_date": "<span class=\"date-display-single\">January 6, 2222</span>",
-  "is_available_dvd?": true,
+  "is_available_dvd": true,
   "field_street_date": {
     "field_classes": "field-type-datestamp field-label-inline",
     "field_unique_class": "field-name-field-street-date",
-    "field_label_hidden?": false,
+    "field_label_hidden": false,
     "field_label": "Release Date: "
   },
   "field_number_of_discs": {
     "field_classes": "field-type-text field-label-inline",
     "field_unique_class": "field-name-field-number-of-discs",
-    "field_label_hidden?": false,
+    "field_label_hidden": false,
     "field_label": "Number of Discs: "
   }
 },
@@ -224,17 +223,17 @@
   "format_edition_subheadline": "Cras fermentum blandit lorem ac dapibus. Aenean venenatis sem augue, ornare ultrices eros euismod quis. Quisque eleifend pretium dolor, quis pharetra urna varius sit amet. Suspendisse at sagittis nibh, nec tempor nisl. Morbi nibh velit, efficitur id nibh et, congue placerat sem. Aliquam at velit mollis, egestas quam eget, ornare felis. Donec leo quam, gravida sit amet massa at, semper efficitur elit. Aenean maximus scelerisque urna, id lacinia mauris scelerisque ac. Nulla semper sit amet nisi id commodo. Sed quam orci, placerat quis interdum eu, mattis et metus. Phasellus eu interdum tortor.",
   "number_of_discs": "38",
   "release_date": "<span class=\"date-display-single\">December 6, 2014</span>",
-  "is_available_bluray?": true,
+  "is_available_bluray": true,
   "field_street_date": {
     "field_classes": "field-type-datestamp field-label-inline",
     "field_unique_class": "field-name-field-street-date",
-    "field_label_hidden?": false,
+    "field_label_hidden": false,
     "field_label": "Release Date: "
   },
   "field_number_of_discs": {
     "field_classes": "field-type-text field-label-inline",
     "field_unique_class": "field-name-field-number-of-discs",
-    "field_label_hidden?": false,
+    "field_label_hidden": false,
     "field_label": "Number of Discs: "
   }
 }
@@ -272,9 +271,9 @@
 ]
 ,
 "faq": {
-  "views_view_header?": true,
+  "views_view_header": true,
   "views_view_classes": "view view-faq view-id-view-display-id-page view-dom-id-78d5161a3e8aaf2bc1f3081d918764c3",
-  "views_view_footer?": true,
+  "views_view_footer": true,
   "faq_view_header": {
     "views_view_classes": "view view-faq-aux view-id-faq_aux view-display-id-default view-dom-id-2917d8874d7aa6f496e7eedeaba27ddb",
     "faq_view_header_header": "<h2>UltraViolet™ FAQ0</h2>"
@@ -329,10 +328,10 @@
 ,
 "02_listing_items_search_results_view": {
   "rating": true,
-  "views_view_header?": true,
+  "views_view_header": true,
   "views_view_classes": "view view-search-results view-id-search_results view-display-id-page view-dom-id-e88ad6916d7fef099c50ea11d6e78e11",
-  "views_view_exposed?": true,
-  "views_view_pager?": true,
+  "views_view_exposed": true,
+  "views_view_pager": true,
   "search_results_rows": [
     {
       "sku_item": [
@@ -358,8 +357,8 @@
 ,
 "titles_listing": {
   "views_view_classes": "view view-titles-landing-pages view-id-titles_landing_pages",
-  "views_view_exposed?": true,
-  "views_view_pager?": true,
+  "views_view_exposed": true,
+  "views_view_pager": true,
   "titles_listing_rows": [
     {
       "sku_item": [
@@ -420,7 +419,6 @@
   "entity_classes": "entity-queues queues-offer",
   "field_classes": "field-name-field-qt-offer field-type-entityreference field-label-hidden",
   "pane_classes": "panel-pane pane-queues",
-  "pane_title?": true,
   "pane_title": "CMS Controlled Text",
   "format_image_large": "http://placehold.it/125x168/025a26/FFFFFF",
   "format_image_medium": "http://placehold.it/125x168/025a26/FFFFFF",
@@ -431,17 +429,17 @@
     "field_classes": "field-name-field-format-image-2d field-type-image field-label-hidden",
     "offers_panel_bottom_field_collection_items": [
       {
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {
         "format_image_large": "http://placehold.it/125x161/025a26/FFFFFF",
         "format_image_medium": "http://placehold.it/125x161/025a26/FFFFFF",
         "format_image_small": "http://placehold.it/140x180/4aafd6/FFFFFF",
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {
         "movie_title": "Really Long Movie Title Here",
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {
         "format_image_large": "http://placehold.it/125x178/025a26/FFFFFF",
@@ -454,7 +452,7 @@
         "format_image_medium": "http://placehold.it/125x178/025a26/FFFFFF",
         "format_image_small": "http://placehold.it/140x200/4aafd6/FFFFFF",
         "movie_title": "Exceptionally Long Movie Title Here, It's a Really Long One",
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {},
       {},
@@ -463,7 +461,7 @@
         "format_image_medium": "http://placehold.it/125x156/025a26/FFFFFF",
         "format_image_small": "http://placehold.it/140x175/4aafd6/FFFFFF",        
         "movie_title": "Exceptionally Long Movie Title Here, It's a Really Long One",
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {},
       {
@@ -471,23 +469,23 @@
         "format_image_medium": "http://placehold.it/125x178/025a26/FFFFFF",
         "format_image_small": "http://placehold.it/140x200/4aafd6/FFFFFF",        
         "movie_title": "Exceptionally Long Movie Title Here, It's a Really Long One",
-        "has_buy_button?": true
+        "has_buy_button": true
       }
     ],
     "offers_panel_bottom_field_collection_items_2": [
       {
         "movie_title": "Exceptionally Long Movie Title Here, It's a Really Long One",
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {
-        "has_buy_button?": true
+        "has_buy_button": true
       },
       {},
       {
-        "has_buy_button?": true
+        "has_buy_button": true
       }
     ]
   },
@@ -501,7 +499,7 @@
   },
   "offers_panel_bottom_gridspan_slides": {
     "entity_classes": "entity-field-collection-item field-collection-item-field-formats",
-    "pane_title?": false,
+    "pane_title": false,
     "format_image_large": "http://placehold.it/125x175/025a26/FFFFFF",
     "format_image_medium": "http://placehold.it/125x175/025a26/FFFFFF",
     "format_image_small": "http://placehold.it/140x196/4aafd6/FFFFFF",
@@ -510,13 +508,13 @@
       "field_classes": "field-name-field-format-image-2d field-type-image field-label-hidden",
       "offers_panel_bottom_field_collection_items": [
         {
-          "has_buy_button?": true
+          "has_buy_button": true
         },
         {
-          "has_buy_button?": true
+          "has_buy_button": true
         },
         {
-          "has_buy_button?": true
+          "has_buy_button": true
         },
         {}
       ]
@@ -525,8 +523,7 @@
   "additional_promos": {
     "panels_pane__section_classes": "panel-pane pane-entity-field",
     "panels_pane__section_unique_class": "pane-node-field-additional-promos-slider",
-    "panels_pane__section_header?": true,
-    "panels_pane__section_title?": true,
+    "panels_pane__section_header": true,
     "panels_pane__section_title": "Additional Promos",
     "play_icon": false,
     "media_strip_class": "additional-promos-slider",
@@ -564,15 +561,15 @@
   ],
   "offers_panel_left_middle": {
     "movie_title": "Exceptionally Long Movie Title Here, It's a Really Long One",
-    "has_buy_button?": false
+    "has_buy_button": false
   },
   "offers_panel_center_middle": {
     "movie_title": "Movie Title Here",
-    "has_buy_button?": true
+    "has_buy_button": true
   },
   "offers_panel_right_middle": {
     "movie_title": "Movie Title Here",
-    "has_buy_button?": true
+    "has_buy_button": true
   }
 },
 "offers_panel_hero": {
@@ -587,7 +584,6 @@
 "offers_panel_top": {
   "offers_panel_top_social": {
     "pane_classes": "panel-pane pane-entity-field pane-node-field-stay-connected",
-    "pane_title?": true,
     "pane_title": "Share",
     "social_links": [
       {
@@ -841,8 +837,7 @@
   "field_name_body": {
     "panels_pane__section_classes": "panel-pane pane-entity-field",
     "panels_pane__section_unique_class": "pane-node-body title-synopsis",
-    "panels_pane__section_header?": true,
-    "panels_pane__section_title?": true,
+    "panels_pane__section_header": true,
     "panels_pane__section_title": "Synopsis",
     "field_classes": "field-type-text-with-summary field-label-hidden",
     "field_unique_class": "field-name-body"
@@ -850,8 +845,7 @@
   "field_name_field_people": {
     "panels_pane__section_classes": "panel-pane pane-entity-field",
     "panels_pane__section_unique_class": "pane-node-field-people",
-    "panels_pane__section_header?": true,
-    "panels_pane__section_title?": true,
+    "panels_pane__section_header": true,
     "panels_pane__section_title": "Cast",
     "field_classes": "field-type-field-collection field-label-hidden",
     "field_unique_class": "field-name-field-people"
@@ -906,7 +900,7 @@
       }
     },
     {
-      "no_title?": true,
+      "no_title": true,
       "promo_id": 2,
       "bg_img_blurred": "../../images/nosync/perfect_2_690x345-blur.jpg",
       "bg_img_srcs": "{\"0\":\"../../images/nosync/perfect_2_690x345.jpg\", \"955\":\"../../images/nosync/perfect_2_940x470.jpg\"}"
@@ -935,7 +929,7 @@
       }
     },
     {
-      "no_title?": true,
+      "no_title": true,
       "promo_id": 4,
       "bg_img_blurred": "../../images/nosync/perfect_4_690x345-blur.jpg",
       "bg_img_srcs": "{\"0\":\"../../images/nosync/perfect_4_690x345.jpg\", \"955\":\"../../images/nosync/perfect_4_940x470.jpg\"}"
@@ -964,7 +958,7 @@
       }
     },
     {
-      "no_title?": true,
+      "no_title": true,
       "promo_id": 6,
       "bg_img_blurred": "../../images/nosync/neighbores_hires_2_600-blur.jpg",
       "bg_img_srcs": "{\"0\":\"../../images/nosync/neighbores_hires_2_600.jpg\", \"955\":\"../../images/nosync/neighbores_hires_2_1022.jpg\"}"
@@ -993,7 +987,7 @@
       }
     },
     {
-      "no_title?": true,
+      "no_title": true,
       "promo_id": 8,
       "bg_img_blurred": "../../images/nosync/neighbores_hires_4_600-blur.jpg",
       "bg_img_srcs": "{\"0\":\"../../images/nosync/neighbores_hires_4_600.jpg\", \"955\":\"../../images/nosync/neighbores_hires_4_1022.jpg\"}"
@@ -1004,8 +998,7 @@
 "media_strip_downloads_and_games": {
   "panels_pane__section_classes": "panel-pane pane-entity-field",
   "panels_pane__section_unique_class": "pane-node-field-games-downloads",
-  "panels_pane__section_header?": true,
-  "panels_pane__section_title?": true,
+  "panels_pane__section_header": true,
   "panels_pane__section_title": "Downloads and Games",
   "play_icon": false,
   "media_strip_class": "downloads-and-games-strip",
@@ -1475,8 +1468,7 @@
 "02_social_facebook_stream": {
   "panels_pane__section_classes": "panel-pane pane-block",
   "panels_pane__section_unique_class": "pane-social-facebook-stream",
-  "panels_pane__section_header?": true,
-  "panels_pane__section_title?": true,
+  "panels_pane__section_header": true,
   "panels_pane__section_title": "Facebook"
 }
 ,
@@ -1488,8 +1480,7 @@
 "social_pane": {
   "panels_pane__section_classes": "panel-pane pane-block",
   "panels_pane__section_unique_class": "pane-menu-menu-social",
-  "panels_pane__section_header?": true,
-  "panels_pane__section_title?": true,
+  "panels_pane__section_header": true,
   "panels_pane__section_title": "Social",
   "social_links": [
     {

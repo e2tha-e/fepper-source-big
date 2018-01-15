@@ -1,8 +1,8 @@
 {{> 01-molecules/images/dark-blur }}
 <div class="dl--front-focus">
 
-  {{# no_title? }}<a href="#{{ promo_id }}" class="img dl--responsive-bg-img responsive-bg-img" data-srcs='{{{ bg_img_srcs }}}' tabindex="-1"></a>{{/ no_title? }}
-  {{^ no_title? }}
+  {{# no_title }}<a href="#{{ promo_id }}" class="img dl--responsive-bg-img responsive-bg-img" data-srcs='{{{ bg_img_srcs }}}' tabindex="-1"></a>{{/ no_title }}
+  {{^ no_title }}
     <div class="img dl--responsive-bg-img responsive-bg-img" data-srcs='{{{ bg_img_srcs }}}'>
 
       <div class="slider-big-cell-bottom">
@@ -95,6 +95,6 @@
       </div>
 
     </div>
-  {{/ no_title? }}
+  {{/ no_title }}
 
 </div>
