@@ -1,0 +1,26 @@
+{
+"footer_menus": [
+  {
+    "nav_list_title": "Sites",
+    "nav_list_id": "block-menu-menu-footer-sites",
+    "nav_list_class": "block block-menu contextual-links-region",
+    "footer_nav_list_items": [
+      {
+        "nav_list_item": "Pictures"
+      },
+      {
+        "nav_list_item": "Orlando"
+      },
+      {
+        "nav_list_item": "Hollywood"
+      },
+      {
+        "nav_list_item": "BC"
+      },
+      {
+        "nav_list_item": "Digital Distribution Affiliates"
+      }
+    ]
+  }
+  ]
+}
